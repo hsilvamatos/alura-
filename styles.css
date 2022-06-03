@@ -145,10 +145,6 @@ body {
     color: var(--azul-botao);
 }
 
-.lista__link a:active {
-    color: purple;
-}
-
 .container__botao:hover {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-fundo);
